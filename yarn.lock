@@ -2376,10 +2376,10 @@
     rifm "^0.12.0"
     tinycolor2 "^1.4.2"
 
-"@salt-ds/theme@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@salt-ds/theme/-/theme-1.0.0.tgz#3e45ce8439c96974f19ab1628fda236809dfb28a"
-  integrity sha512-aY2kcctPgfV+BCCewf11ILyHvLBKh1YMPNg5FwhUZ4PyIB+9pZf2EAxQj97zEhGdiwe2J6/EyQPrEBp2zUTmnQ==
+"@salt-ds/theme@1.10.0":
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/@salt-ds/theme/-/theme-1.10.0.tgz#3ec28d622472bd8c1e5037bd7211065209b7e2cb"
+  integrity sha512-kz5NOkRnXnu0MJYrS66w6OVeb3tJnBQfuJHlyNiYF4egF+H+Pc18QsL+LoVF0npXZsHV9aTnrxF6XWGjSBpvKA==
 
 "@schemastore/package@0.0.6":
   version "0.0.6"
