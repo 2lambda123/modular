@@ -2456,10 +2456,10 @@
     estree-walker "^2.0.2"
     picomatch "^2.3.1"
 
-"@rushstack/eslint-patch@^1.1.0":
-  version "1.2.0"
-  resolved "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz"
-  integrity sha512-sXo/qW2/pAcmT43VoRKOJbDOfV3cYpq3szSVfIThQXNt+E4DfKj361vaAt3c88U5tPUxzEswam7GW48PJqtKAg==
+"@rushstack/eslint-patch@^1.10.1":
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.10.1.tgz#7ca168b6937818e9a74b47ac4e2112b2e1a024cf"
+  integrity sha512-S3Kq8e7LqxkA9s7HKLqXGTGck1uwis5vAXan3FnU5yw1Ec5hsSGnq4s/UCaSqABPOnOTg7zASLyst7+ohgWexg==
 
 "@salt-ds/core@1.1.0":
   version "1.1.0"
