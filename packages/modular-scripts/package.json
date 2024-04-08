@@ -98,7 +98,7 @@
     "loader-utils": "3.2.1",
     "micromatch": "4.0.5",
     "mime": "^3.0.0",
-    "mini-css-extract-plugin": "2.6.1",
+    "mini-css-extract-plugin": "2.8.1",
     "minimatch": "^5.1.0",
     "npm-packlist": "^3.0.0",
     "open": "8.3.0",
