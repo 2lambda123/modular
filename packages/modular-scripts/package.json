@@ -141,7 +141,7 @@
     "webpack-dev-server": "4.11.1",
     "webpack-manifest-plugin": "5.0.0",
     "webpack-merge": "^5.8.0",
-    "ws": "8.8.1"
+    "ws": "8.17.1"
   },
   "peerDependencies": {
     "react": "^16 || ^17",
